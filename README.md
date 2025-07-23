@@ -15,7 +15,10 @@ pip install -r requirements.txt
 
 ### Setup
 ```bash
+# Download https://nodejs.org/en here
+
 # Using node.js & npm
+
 # Inside Project Folder
 npx create-react-app frontend
 
