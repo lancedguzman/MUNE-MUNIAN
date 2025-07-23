@@ -9,12 +9,12 @@ This is a hackathon project for BPI DATAWAVE 2025.
 5. Node.js
 
 ### Requirements
-'''bash
+```bash
 pip install -r requirements.txt
-'''
+```
 
 ### Setup
-'''bash
+```bash
 # Using node.js & npm
 # Inside Project Folder
 npx create-react-app frontend
@@ -26,4 +26,4 @@ npm run build
 # To check if it's working
 cd frontend
 npm start
-'''
+```
